@@ -7,12 +7,12 @@ Passionné par la robotique, le développement bas niveau et l'intelligence arti
 
 ### 🛠 Tech Stack & Tools
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fedora](https://img.shields.io/badge/Fedora-%235199DE.svg?style=for-the-badge&logo=fedora&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fedora](https://img.shields.io/badge/Fedora-%235199DE.svg?style=for-the-badge&logo=fedora&logoColor=white) ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Languages:** C, C++, Java, Python, SQL, Prolog
 - **Robotics:** ESP32, Arduino, PCA9685, QTR Sensors (V-shape config)
 - **AI & CS:** Algorithmes de recherche (A*), Flex/Bison, CSP
-- **OS:** Fedora Linux 🐧 (Power User)
+- **OS:** Linux Enthusiast 🐧 (Fedora & Pop!_OS Power User | Custom Dev Environment)
 - **DB:** Oracle, MySQL
 
 ---
