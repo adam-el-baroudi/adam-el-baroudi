@@ -1,6 +1,6 @@
 # Salut, moi c'est Adam ! 👋
 
-### 🎓 Étudiant en 3ème année Informatique, Data Science & IA @ FSR
+### 🎓 Diplômé en Sciences des Données & IA | Passionné par la Robotique
 Passionné par la robotique, le développement bas niveau et l'intelligence artificielle. J'aime transformer des lignes de code en machines physiques.
 
 ---
